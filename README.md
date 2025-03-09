@@ -89,8 +89,6 @@
 - 💬 Ask me about **Machine Learning**, **Python**, or **Project Building**.
 - ⚡ Passionate about combining **AI brilliance** with **robust engineering practices** to craft real-world solutions.
 
----
-
 ### 🏆 Achievements
 
 🏅 **Smart-Hacks 2k24** - National Level Finalist  
