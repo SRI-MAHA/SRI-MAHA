@@ -2,7 +2,7 @@
 
 # 🚀 Srimahalakshmi B | ML Engineer | AI Enthusiast <br> Software Engineering Practitioner 💻
 ## Creative Coder 💻 | Python Prodigy 🐍 | AI Dreamer 🌌 | ML Wizard ✨
-**Innovating with purpose, coding with passion.**
+**Innovating with purpose, coding with passion.** 📈
 -
 </div>
 
