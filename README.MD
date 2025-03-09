@@ -1,7 +1,7 @@
-#### Hi there! 👋 I'm **Srimahalakshmi B**
+<div align="center">
 
-> 🚀 **ML Engineer | Software Engineering Practitioner | AI Enthusiast**\
-> 💻 Turning **innovative ideas** into **impactful solutions** with Python, Deep Learning, and Data Science.
+# 🚀 Srimahalakshmi B | **ML Engineer | Software Engineering Practitioner | AI Enthusiast
+## Creative Coder 💻 | Python Prodigy 🐍 | AI Dreamer 🌌 | ML Wizard ✨
 
 <img align="right" height="250" src="https://thumbs.dreamstime.com/b/serene-late-night-study-scene-featuring-anime-character-working-diligently-headphones-illuminated-desk-lamps-357337352.jpg"  />
 
