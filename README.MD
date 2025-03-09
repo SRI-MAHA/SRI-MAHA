@@ -3,7 +3,7 @@
 > 🚀 **ML Engineer | Software Engineering Practitioner | AI Enthusiast**\
 > 💻 Turning **innovative ideas** into **impactful solutions** with Python, Deep Learning, and Data Science.
 
-<img align="right" height="200" src="https://thumbs.dreamstime.com/b/serene-late-night-study-scene-featuring-anime-character-working-diligently-headphones-illuminated-desk-lamps-357337352.jpg"  />
+<img align="right" height="250" src="https://thumbs.dreamstime.com/b/serene-late-night-study-scene-featuring-anime-character-working-diligently-headphones-illuminated-desk-lamps-357337352.jpg"  />
 
 ###
 
